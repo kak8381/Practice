@@ -1,2 +1,2 @@
 # Practice
-Includes simple programming practice and first time executing something new.
+Includes simple programming practice, as well as non-school affiliated projects
